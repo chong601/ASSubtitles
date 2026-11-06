@@ -66,7 +66,7 @@ Coming soon! They will be populated based on what's coming out of my pipeline (p
 
 |Song/Album name|Anime series (if applicable)|Project inception date|Status|Subtitle style "Version"|
 |-|-|-|-|-|
-|Futari no Honey Boy|Kiss x Sis (OVA)|2026-08-04|Done|Jank.|
+|Futari no Honey Boy|Kiss x Sis (OVA)|2025-08-04|Done|Jank.|
 
 ## Player support matrix
 
