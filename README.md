@@ -67,6 +67,7 @@ Coming soon! They will be populated based on what's coming out of my pipeline (p
 |Song/Album name|Anime series (if applicable)|Project inception date|Status|Subtitle style "Version"|
 |-|-|-|-|-|
 |Futari no Honey Boy|Kiss x Sis (OVA)|2025-08-04|Done|Jank.|
+|Shikairo Days / Shika-senbei no Uta|My Deer Friend Nokotan|2026-10-30|In progress|v3|
 
 ## Player support matrix
 
